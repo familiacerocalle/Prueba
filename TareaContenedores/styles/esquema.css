@@ -1,0 +1,65 @@
+#divHeaderTitulo, #divHeaderMenu, footer, section  {
+  border: 1px solid black;
+}
+
+#divHeaderMenu p {
+	margin-left: 25px;
+}
+
+#divHeaderMenu {
+  display: flex;
+}
+
+#contenedor1, #contenedor2, header, footer {
+	margin-top: 2%;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-bottom: 2%;
+}
+
+#contenedor2 article {
+  border: 1px solid black;
+}
+
+#contenedor1 div {
+  display: flex;
+}
+
+#contenedor2 {
+  background-color: aquamarine;
+}
+
+
+
+#contenedor2 div {
+  display: flex;
+}
+
+#contenedor2 article {
+  width: 100px;
+    text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+[atributoPrueba] {
+  float: left;
+    margin: 15px;
+}
+
+#articulo01 {
+  background-color: red;
+}
+#articulo02 {
+  background-color: blue;
+}
+#articulo03 {
+  background-color: palegoldenrod;
+}
+
+footer {
+    height: 10%;
+    background-color: blueviolet;
+    text-align: center;
+}
